@@ -6,11 +6,11 @@ Hello! I'm a Toronto-based software engineer with a passion for problem-solving 
 Ready to explore my projects or discuss potential collaborations? Feel free to [contact me](mailto:lewisshum.work@gmail.com)!
 
 - 👨‍💻 All of my projects are available [here](https://melodious-taffy-af8225.netlify.app).
-- 📫 How to reach me: **lewisshum.work@gmail.com**
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/1_FYj_PTrWCBNrbbg4OpervR_AE1_ZPaqbRMYrAJZJpQ/edit#heading=h.qfavqxf66yxg)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lewis-wang-yin-shum-6b4890162/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewis-wang-yin-shum-6b4890162/)
+[![Github](https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white)](https://github.com/lewis0926)
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
