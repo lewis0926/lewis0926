@@ -5,7 +5,7 @@ Hello! I'm a Toronto-based software engineer with a passion for problem-solving 
 
 Ready to explore my projects or discuss potential collaborations? Feel free to [contact me](mailto:lewisshum.work@gmail.com)!
 
-- 👨‍💻 All of my projects are available [here](https://melodious-taffy-af8225.netlify.app).
+- 👨‍💻 All of my projects are available [here](https://lewis-profile.netlify.app).
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/1_FYj_PTrWCBNrbbg4OpervR_AE1_ZPaqbRMYrAJZJpQ/edit#heading=h.qfavqxf66yxg)
 
 ## 🌐 Socials:
